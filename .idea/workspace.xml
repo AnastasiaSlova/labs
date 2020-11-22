@@ -2,23 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36fbfcf4-26c2-4473-94ec-adbeebfdf0a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Except1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Except2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Except3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Except4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Except5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Except6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task1/Except7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task2/SubTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task2/SubTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/src/task2/SubTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFile1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example1/KlassFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example10/Buf_RW_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example10/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example10/Новый текстовый документ2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example2/Primer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example2/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example3/File_ByteRead_SamBuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example3/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example4/FilesData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example4/numIsh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example4/numRez.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example5/Files_byteRW_my2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example5/qwe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example6/File_RW_byByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example6/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example6/Новый текстовый документ2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example7/Buf_RW_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example7/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example7/Новый текстовый документ2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example8/InConvertInText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example8/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example9/Buf_WR_IO_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example9/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task1/example9/Новый текстовый документ2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task2/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task2/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task2/Новый текстовый документ2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task3/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task3/Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/src/task3/Новый текстовый документ2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,18 +55,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j3jUjajpiiOuAQxSSshLwI6wp6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab7/src/task5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab10/src/task3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -61,26 +80,30 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\labs\lab10\src\task3" />
+      <recent name="D:\JavaProject\labs\lab10\src\task2" />
+      <recent name="D:\JavaProject\labs\lab10\src\tesk1\example10" />
+      <recent name="D:\JavaProject\labs\lab10\src\tesk1\example9" />
+      <recent name="D:\JavaProject\labs\lab10\src\tesk1\example8" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="task2" />
       <recent name="task6" />
       <recent name="task5" />
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaProject\labs\lab7\src\task5" />
-      <recent name="D:\JavaProject\labs\lab7\src\task4" />
-      <recent name="D:\JavaProject\labs\lab6\src\task7" />
-      <recent name="D:\JavaProject\labs\lab6\src\task2" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\labs\lab10\src\tesk1\example2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubTask3">
-    <configuration name="Except6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1.Except6" />
-      <module name="lab9" />
+  <component name="RunManager" selected="Application.KlassFile1">
+    <configuration name="Buf_RW_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.example10.Buf_RW_2" />
+      <module name="lab10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task1.*" />
+          <option name="PATTERN" value="task1.example10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Except7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1.Except7" />
-      <module name="lab9" />
+    <configuration name="KlassFile1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.example1.KlassFile1" />
+      <module name="lab10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task1.*" />
+          <option name="PATTERN" value="task1.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2.SubTask1" />
-      <module name="lab9" />
+    <configuration name="Primer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.example2.Primer1" />
+      <module name="lab10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task2.*" />
+          <option name="PATTERN" value="task1.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2.SubTask2" />
-      <module name="lab9" />
+    <configuration name="example (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3.example" />
+      <module name="lab10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task2.*" />
+          <option name="PATTERN" value="task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,9 +150,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2.SubTask3" />
-      <module name="lab9" />
+    <configuration name="example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.example" />
+      <module name="lab10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task2.*" />
@@ -142,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubTask3" />
-        <item itemvalue="Application.SubTask2" />
-        <item itemvalue="Application.SubTask1" />
-        <item itemvalue="Application.Except7" />
-        <item itemvalue="Application.Except6" />
+        <item itemvalue="Application.KlassFile1" />
+        <item itemvalue="Application.example (1)" />
+        <item itemvalue="Application.Primer1" />
+        <item itemvalue="Application.example" />
+        <item itemvalue="Application.Buf_RW_2" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +188,7 @@
       <workItem from="1604149904022" duration="8527000" />
       <workItem from="1604497501067" duration="20331000" />
       <workItem from="1604592212466" duration="7032000" />
+      <workItem from="1606050601011" duration="7804000" />
     </task>
     <task id="LOCAL-00001" summary="lab 6">
       <created>1603733271549</created>
@@ -193,6 +217,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="lab 6" />
     <option name="LAST_COMMIT_MESSAGE" value="lab 6" />
   </component>
@@ -209,70 +234,82 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="226" width="460" height="661" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1604511074931" />
-    <state x="1038" y="206" key="#xdebugger.evaluate" timestamp="1604598672299">
+    <state x="1154" y="292" key="#xdebugger.evaluate" timestamp="1606062673056">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1038" y="206" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1604598672299" />
-    <state x="585" y="119" key="CommitChangelistDialog2" timestamp="1604519986014">
+    <state x="1154" y="292" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1606062673056" />
+    <state x="585" y="119" key="CommitChangelistDialog2" timestamp="1606062845764">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="585" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1604519986014" />
-    <state width="405" height="466" key="DebuggerActiveHint" timestamp="1604518093046">
+    <state x="585" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1606062845764" />
+    <state width="407" height="466" key="DebuggerActiveHint" timestamp="1606050871147">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="405" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1604518093046" />
+    <state width="407" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1606050871147" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1604519979674">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="184" y="87" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604519979674" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1604601264767">
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1606049346901">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1604601264767" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1604601264766">
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1606049346901" />
+    <state width="937" height="284" key="GridCell.Tab.0.bottom" timestamp="1606062882370">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1604601264766" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1604601264766">
+    <state width="937" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606062882370" />
+    <state width="937" height="284" key="GridCell.Tab.0.center" timestamp="1606062882369">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1604601264766" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1604601264767">
+    <state width="937" height="284" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606062882369" />
+    <state width="937" height="284" key="GridCell.Tab.0.left" timestamp="1606062882369">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1604601264767" />
-    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1604601256058">
+    <state width="937" height="284" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606062882369" />
+    <state width="937" height="284" key="GridCell.Tab.0.right" timestamp="1606062882370">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1604601256058" />
-    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1604601256058">
+    <state width="937" height="284" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606062882370" />
+    <state width="937" height="347" key="GridCell.Tab.1.bottom" timestamp="1606062682750">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1604601256058" />
-    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1604601256058">
+    <state width="937" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606062682750" />
+    <state width="937" height="347" key="GridCell.Tab.1.center" timestamp="1606062682750">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1604601256058" />
-    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1604601256058">
+    <state width="937" height="347" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606062682750" />
+    <state width="937" height="347" key="GridCell.Tab.1.left" timestamp="1606062682750">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1604601256058" />
-    <state x="440" y="99" key="SettingsEditor" timestamp="1603040048965">
+    <state width="937" height="347" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606062682750" />
+    <state width="937" height="347" key="GridCell.Tab.1.right" timestamp="1606062682750">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603040048965" />
+    <state width="937" height="347" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606062682750" />
+    <state x="440" y="99" key="SettingsEditor" timestamp="1606035110080">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1606035110080" />
     <state x="552" y="246" key="Vcs.Push.Dialog.v2" timestamp="1604519995850">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1604519995850" />
-    <state x="656" y="257" width="607" height="536" key="find.popup" timestamp="1604599654910">
+    <state width="571" height="528" key="XDebugger.FullValuePopup" timestamp="1606049326335">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="257" width="607" height="536" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1604599654910" />
-    <state x="342" y="145" key="new project wizard" timestamp="1604592565597">
+    <state width="571" height="528" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1606049326335" />
+    <state x="656" y="257" width="737" height="606" key="find.popup" timestamp="1606061182440">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1604592565597" />
+    <state x="656" y="257" width="737" height="606" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606061182440" />
+    <state x="342" y="145" key="new project wizard" timestamp="1606035136382">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1606035136382" />
+    <state x="227" y="245" key="run.anything.popup" timestamp="1606054559969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="227" y="245" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606054559969" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1604595856549">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -365,6 +402,39 @@
           <url>file://$PROJECT_DIR$/lab9/src/task2/SubTask1.java</url>
           <line>33</line>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab10/src/task1/example2/Primer1.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab10/src/task1/example3/File_ByteRead_SamBuff.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab10/src/task1/example5/Files_byteRW_my2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab10/src/task2/example.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab10/src/task3/example.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/lab10/src/task1/example8/InConvertInText.java</url>
+          <line>18</line>
+          <properties class="task1.example8.InConvertInText" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
